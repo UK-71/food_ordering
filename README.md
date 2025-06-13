@@ -36,6 +36,6 @@ Payment Page:
    ![Payment_Method](Screenshot/Payment.png)    
   
 Success Page:
-       The Success Page confirms that the order has been completed successfully. It displays a bold “SUCCESS!” message with a checkmark icon to indicate everything went smoothly. The message “Your order has been completed” assures users that the process is done, and “Everything is set!” gives a sense of completion and satisfaction. A prominent “Continue” button lets users move forward to explore more or return to the home screen.
+       The Success Page 🎉 confirms that your order has been completed ✅ without any issues. It proudly displays a bold “SUCCESS!” message along with a large checkmark icon to reassure the user. The message “Everything is set!” 🛒 gives a sense of completion and satisfaction. A bright “Continue” 🔄 button encourages users to move forward or return to the home screen.
 
  ![Success](Screenshot/Success.png)
