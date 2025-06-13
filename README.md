@@ -28,10 +28,14 @@ Add to Cart page:
 Food_Ordering page:
        The Cart Page provides a summary of all the items the user has selected for ordering, along with their quantities, prices, and images. Users can easily adjust the quantity of each item using the plus and minus buttons. The page calculates the subtotal, adds a delivery charge, and displays the final total amount. With a prominent "CHECK OUT" button, it guides users to proceed with the final order placement.
 
-  ![Food_ordering](Screenshot/Food_ordering.png) 
+  ![Food_ordering](Screenshot/Food_Ordering.png) 
 
 Payment Page:
        The Checkout Page allows users to confirm their shipping address and select a preferred payment method before placing the order. Users can choose between saved addresses like Home or Office and edit them if needed. Multiple payment options are available, including Credit Card, Google Pay, and PayPal, ensuring flexibility and ease. The final subtotal and total are clearly displayed, and the "Place to Order" button finalizes the transaction.
 
-   ![Payment_Method](ScreenShot/Payment.png)    
+   ![Payment_Method](Screenshot/Payment.png)    
   
+Success Page:
+       The Success Page confirms that the order has been completed successfully. It displays a bold “SUCCESS!” message with a checkmark icon to indicate everything went smoothly. The message “Your order has been completed” assures users that the process is done, and “Everything is set!” gives a sense of completion and satisfaction. A prominent “Continue” button lets users move forward to explore more or return to the home screen.
+
+ ![Success](Screenshot/Success.png)
