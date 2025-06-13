@@ -38,7 +38,7 @@ Payment Page:
 Review page:
        The Review Page allows users to explore detailed product descriptions along with customer ratings and feedback. Each food item is presented with its image, name, price, and a short description 🍔. Below, real users like Ram A, Vijay V, and Ajith A have shared their reviews, giving future buyers helpful insights. A friendly “Give Your Review” 💬 button lets new users add their own opinions to improve community trust.
 
-   ![Review]{Screenshot/Review.png)
+   ![Review](Screenshot/Review.png)
   
 Success Page:
        The Success Page 🎉 confirms that your order has been completed ✅ without any issues. It proudly displays a bold “SUCCESS!” message along with a large checkmark icon to reassure the user. The message “Everything is set!” 🛒 gives a sense of completion and satisfaction. A bright “Continue” 🔄 button encourages users to move forward or return to the home screen.
